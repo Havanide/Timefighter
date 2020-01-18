@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timefighter</string>
+    <string name="tap_me_button">TAP ME!</string>
+    <string name="score_text">score: %1$d</string>
+    <string name="time">time: %1$d</string>
+    <string name="gameOverMessage">Times up! Your score was: %1$d</string>
+    <string name="aboutMenu">Timefighter app</string>
+    <string name="aboutTitle">Created by android noob android developer</string>
+    <string name="aboutMessage">Message</string>
+</resources>
